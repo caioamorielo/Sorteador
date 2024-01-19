@@ -10,6 +10,7 @@ Este projeto, desenvolvido em <img width="58px" src="https://img.shields.io/badg
 Sinta-se à vontade para usar esta ferramenta para diversos fins, desde tomadas de decisões até jogos divertidos e sorteios. 🎁
 
 Experimente e abrace o elemento surpresa com o Sorte.io! Se sentindo com sorte? Lance os números e descubra o vencedor aleatório agora! 🍀🎰✨</p>
-<p>Projeto sugerido pelo <a href="https://rodolfomori.com.br/devclub/">DevClub</a> para aperfeiçoar a lógica.
+<p>Projeto de estudo: <a href="https://rodolfomori.com.br/devclub/">DevClub</a>.
 <br>
-<img src="" alt="website-screen"/>
+<br>
+<img src="https://github.com/caioamorielo/Sorteador/blob/main/Assets/sertio-readme.png?raw=true" alt="website-screen"/>
